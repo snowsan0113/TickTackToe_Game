@@ -1,0 +1,12 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs/TickTackToe_Game
+/TickTackToe_Game/x64/Debug
+/x64/Debug
+/Log.txt
+/TickTackToe_Game.sln
+/TickTackToe_Game.vcxproj
+/TickTackToe_Game.vcxproj.filters
+/TickTackToe_Game.vcxproj.user
